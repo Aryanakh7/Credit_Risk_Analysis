@@ -59,4 +59,28 @@ The results for the SMOTEEN Sampling method are indicated as follows:
 
 ### *Balanced Random Forest Classifier*
 
+Here are the results for the Balanced Random Forest Classifier method: 
+
+![image](https://user-images.githubusercontent.com/75655852/116027124-081ab900-a622-11eb-8484-8f6ea05b3333.png)
+
+- The Balanced Accuracy Score is 78.85%
+- The Precision High Risk is 3%
+- The Precision Low Risk is 100%
+- The Recall High Risk is 70%
+- The Recall Low Risk is 87%
+
+
 ### *Easy Ensemble AdaBoost Classifier*
+
+Finally, the Easy Ensemble AdaBoost Classifier method indicate the following results:
+
+![image](https://user-images.githubusercontent.com/75655852/116027194-38faee00-a622-11eb-93e6-1398cfea1789.png)
+
+- The Balanced Accuracy Score is 93.16%
+- The Precision High Risk is 9%
+- The Precision Low Risk is 100%
+- The Recall High Risk is 92%
+- The Recall Low Risk is 94%
+
+
+
