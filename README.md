@@ -44,6 +44,7 @@ The following results are indicated from the ClusterCentroids Undersampling meth
 - The Recall High Risk is 67%
 - The Recall Low Risk is 42%
 
+
 ### *SMOTEEN Sampling*
 
 The results for the SMOTEEN Sampling method are indicated as follows:
