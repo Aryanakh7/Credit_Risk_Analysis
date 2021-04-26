@@ -98,3 +98,5 @@ In order to detect if a loan is high risk, the methods described above will have
 
 In contrast, the SMOTE Oversampling method only has a score of 63%, and would subsequently not be as efficient as the other methods in detecting high risk loans.
 
+To conclude, the **Easy Ensemble AdaBoost Classifier** appears to be the most dependable when detecting high risk loans as it has a high rate of true positive detection, and can therefore be recommended as a reliable machine learning model capable of reducing bias and predicting accurate credit risk.
+
