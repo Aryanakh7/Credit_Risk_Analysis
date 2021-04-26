@@ -82,5 +82,19 @@ Finally, the Easy Ensemble AdaBoost Classifier method indicate the following res
 - The Recall High Risk is 92%
 - The Recall Low Risk is 94%
 
+## Summary
 
+In terms of overall performance, the methods that score the highest in the Balanced Accuracy category are:
+
+  - Easy Ensemble AdaBoost Classifier, scoring 93.16%
+  - Balanced Random Forest Classifier, scoring 78.85%
+ 
+In order to detect if a loan is high risk, the methods described above will have to demonstrate their capacity to flag high risk loans. The methods that score the highest for the recall high risk category and are therefore capable of detecting high risk loans more effeciently are:
+
+ - Easy Ensemble AdaBoost Classifier with a score of 92%
+ - Naive Random Oversampling with a score of 74%
+ - SMOTEEN Sampling with a score of 70%
+ - Balanced Random Forest Classifier with a score of 70%
+
+In contrast, the SMOTE Oversampling method only has a score of 63%, and would subsequently not be as efficient as the other methods in detecting high risk loans.
 
