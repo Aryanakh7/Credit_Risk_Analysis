@@ -29,8 +29,8 @@ The results for the SMOTE Oversampling method are described below:
 - As seen in the analysis, the Balanced Accuracy Score for the SMOTE Oversampling method is 66.23%
 - The Precision High Risk is 1%
 - The Precision Low Risk is 100%
-- The Recall High Risk is 69%
-- The Recall Low Risk is 63%
+- The Recall High Risk is 63%
+- The Recall Low Risk is 69%
 
 ## *ClusterCentroids Undersampling*
 
