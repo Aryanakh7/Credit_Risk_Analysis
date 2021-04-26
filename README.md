@@ -72,7 +72,7 @@ Here are the results for the Balanced Random Forest Classifier method:
 
 ### *Easy Ensemble AdaBoost Classifier*
 
-Finally, the Easy Ensemble AdaBoost Classifier method indicate the following results:
+Finally, the Easy Ensemble AdaBoost Classifier method indicates the following results:
 
 ![image](https://user-images.githubusercontent.com/75655852/116027194-38faee00-a622-11eb-93e6-1398cfea1789.png)
 
