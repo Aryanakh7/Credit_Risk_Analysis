@@ -10,6 +10,7 @@ The purpose of this analysis is to use the credit card credit dataset from Lendi
 ### *Naive Random Oversampling*
 
 The results for the Naive Random Oversampling method are found below:
+
 ![image](https://user-images.githubusercontent.com/75655852/116025795-58444c00-a61f-11eb-94ff-cd76bbca8e8f.png)
 
 - As seen above, the accuracy Score for the Naive Random Oversampling method is 64.55%
@@ -21,6 +22,7 @@ The results for the Naive Random Oversampling method are found below:
 ### *SMOTE Oversampling*
 
 The results for the SMOTE Oversampling method are described below:
+
 ![image](https://user-images.githubusercontent.com/75655852/116025965-ab1e0380-a61f-11eb-951a-25312f377d6b.png)
 
 ## *ClusterCentroids Undersampling"
