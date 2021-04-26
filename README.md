@@ -82,7 +82,7 @@ Finally, the Easy Ensemble AdaBoost Classifier method indicate the following res
 - The Recall High Risk is 92%
 - The Recall Low Risk is 94%
 
-## Summary
+## Summary  
 
 In terms of overall performance, the methods that score the highest in the Balanced Accuracy category are:
 
