@@ -32,7 +32,7 @@ The results for the SMOTE Oversampling method are described below:
 - The Recall High Risk is 63%
 - The Recall Low Risk is 69%
 
-## *ClusterCentroids Undersampling*
+### *ClusterCentroids Undersampling*
 
 The following results are indicated from the ClusterCentroids Undersampling method:
 
